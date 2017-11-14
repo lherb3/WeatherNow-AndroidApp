@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода сейчас</string>
+    <string name="introView_appTitle">Погода сейчас!</string>
+    <string name="introView_copyrightText">© 2017 Larry Herb</string>
+    <string name="mainView_loadCity_errorMessage">Ошибка загрузки данных о погоде, проверки подключения к Интернету или обновления имени города, чтобы следовать следующему формату: Boston, MA</string>
+    <string name="mainView_loadCity_successMessage">"Данные загружены для "</string>
+    <string name="mainView_currentConditions_titleLabel">Текущие условия</string>
+    <string name="mainView_currentConditions_humidityLabel">влажность</string>
+    <string name="mainView_currentConditions_windLabel">ветер</string>
+    <string name="mainView_currentConditions_pressureLabel">давление</string>
+    <string name="mainView_currentConditions_minLabel">Минимальная температура</string>
+    <string name="mainView_currentConditions_maxLabel">Максимальная температура</string>
+    <string name="locationSettingsView_toastMessage_enterCity">Пожалуйста, введите название города: Boston, MA</string>
+    <string name="locationSettingsView_toastMessage_cityUpdated">Город обновлен</string>
+    <string name="locationSettingsView_currentlySetToLabel">В настоящее время установлено</string>
+    <string name="locationSettingsView_enterCity">Введите город здесь</string>
+    <string name="mainView_CurrentConditions_metersPerSecondLabel">Метры в секунду</string>
+</resources>

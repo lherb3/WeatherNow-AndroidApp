@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">天气现在</string>
+    <string name="introView_appTitle">天气现在!</string>
+    <string name="introView_copyrightText">© 2017 Larry Herb</string>
+    <string name="mainView_loadCity_errorMessage">加载天气数据，检查Internet连接或更新城市名称时出错，请遵循以下格式： Boston, MA</string>
+    <string name="mainView_loadCity_successMessage">"数据加载 "</string>
+    <string name="mainView_currentConditions_titleLabel">现在的情况</string>
+    <string name="mainView_currentConditions_humidityLabel">湿度</string>
+    <string name="mainView_currentConditions_windLabel">风</string>
+    <string name="mainView_currentConditions_pressureLabel">压力</string>
+    <string name="mainView_currentConditions_minLabel">最低温度</string>
+    <string name="mainView_currentConditions_maxLabel">最高温度</string>
+    <string name="locationSettingsView_toastMessage_enterCity">请输入城市名称例如: Boston, MA</string>
+    <string name="locationSettingsView_toastMessage_cityUpdated">城市已经更新</string>
+    <string name="locationSettingsView_currentlySetToLabel">目前设置为</string>
+    <string name="locationSettingsView_enterCity">在这里输入城市</string>
+    <string name="mainView_CurrentConditions_metersPerSecondLabel">米每秒</string>
+</resources>

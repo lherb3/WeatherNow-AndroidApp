@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather Now</string>
+    <string name="introView_appTitle">Weather Now!</string>
+    <string name="introView_copyrightText">© 2017 Larry Herb</string>
+    <string name="mainView_loadCity_errorMessage">Error Loading Weather Data, Check Internet Connection, or update city name to follow the following format: Boston, MA</string>
+    <string name="mainView_loadCity_successMessage">"Data Loaded For "</string>
+    <string name="mainView_currentConditions_titleLabel">Current Conditions</string>
+    <string name="mainView_currentConditions_humidityLabel">Humidity</string>
+    <string name="mainView_currentConditions_windLabel">Wind</string>
+    <string name="mainView_currentConditions_pressureLabel">Pressure</string>
+    <string name="mainView_currentConditions_minLabel">Minimum temperature</string>
+    <string name="mainView_currentConditions_maxLabel">Maximum temperature</string>
+    <string name="locationSettingsView_toastMessage_enterCity">Please Enter a City Name ex: Boston, MA</string>
+    <string name="locationSettingsView_toastMessage_cityUpdated">The City Has Been Updated</string>
+    <string name="locationSettingsView_currentlySetToLabel">Currently Set To</string>
+    <string name="locationSettingsView_enterCity">Enter City Here</string>
+    <string name="mainView_CurrentConditions_metersPerSecondLabel">Meters Per Second</string>
+</resources>
