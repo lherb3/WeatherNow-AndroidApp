@@ -1,4 +1,4 @@
-# Weather Now
+# Weather Now for Android
 
 ## Overview
 Weather Now is a Android app written in the Java Programming Langauge, that has been published as coding sample from me (Larry Herb). The app is a very simple app that allows you to look up the weather for a specific location by cityname using the http://www.openweathermap.org/ API. While the app may be updated, it may not be updated to meet changing platform standards.
